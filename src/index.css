@@ -1,0 +1,44 @@
+.navbar
+{
+  height: 50px;
+  padding: 15px;
+  width: 100%;
+  background-color: lavender;
+}
+
+.main{
+  padding: 10px;
+  font-size: 1.3rem;
+  background-color: lightcoral;
+}
+
+.team
+{
+
+   padding: 10px;
+  font-size: 1.3rem;
+  background-color: lightblue;
+
+}
+
+.about
+{
+   padding: 10px;
+  font-size: 1.3rem;
+  background-color: lightgreen;
+}
+
+.foot{
+  bottom: 0;
+  position: sticky;
+  background-color: pink;
+}
+
+ul{
+  display: flex;
+}
+
+li{
+  margin-left: 2rem;
+  list-style: none;
+}
